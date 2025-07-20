@@ -1,1 +1,2 @@
-hello
+local merge conflict
+merge conflict
